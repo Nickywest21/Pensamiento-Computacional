@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Final - Paula Nicolle - West Ortiz/1.0.0": {
+        "runtime": {
+          "Final - Paula Nicolle - West Ortiz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final - Paula Nicolle - West Ortiz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

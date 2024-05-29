@@ -1,0 +1,14 @@
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/bin/Debug/net8.0/Final - Paula Nicolle - West Ortiz
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/bin/Debug/net8.0/Final - Paula Nicolle - West Ortiz.deps.json
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/bin/Debug/net8.0/Final - Paula Nicolle - West Ortiz.runtimeconfig.json
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/bin/Debug/net8.0/Final - Paula Nicolle - West Ortiz.dll
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/bin/Debug/net8.0/Final - Paula Nicolle - West Ortiz.pdb
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.AssemblyInfoInputs.cache
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.AssemblyInfo.cs
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.csproj.CoreCompileInputs.cache
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.dll
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/refint/Final - Paula Nicolle - West Ortiz.dll
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.pdb
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/Final - Paula Nicolle - West Ortiz.genruntimeconfig.cache
+/Users/nicollewest/Documents/Códigos/Final - Paula Nicolle - West Ortiz/obj/Debug/net8.0/ref/Final - Paula Nicolle - West Ortiz.dll
